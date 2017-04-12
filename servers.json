@@ -1,0 +1,74 @@
+{
+  "server": [
+    {
+      "id": "1",
+      "name": "east1",
+      "domain": "east1.scum.systems",
+      "cleanName": "New York 1",
+      "url": "https://east1.scum.systems/hls/stream.m3u8",
+      "viewers": 0,
+      "ip": "159.203.132.250",
+      "location": "east"
+    },
+    {
+      "id": "2",
+      "name": "east2",
+      "domain": "east2.scum.systems",
+      "cleanName": "New York 2",
+      "url": "https://east2.scum.systems/hls/stream.m3u8",
+      "viewers": 0,
+      "ip": "67.205.171.150",
+      "location": "east"
+    },
+    {
+      "id": "3",
+      "name": "east3",
+      "domain": "east3.scum.systems",
+      "cleanName": "New York 3",
+      "url": "https://east3.scum.systems/hls/stream.m3u8",
+      "viewers": 0,
+      "ip": "192.241.189.205",
+      "location": "east"
+    },
+    {
+      "id": "4",
+      "name": "east4",
+      "domain": "east4.scum.systems",
+      "cleanName": "Toronto 1",
+      "url": "https://east4.scum.systems/hls/stream.m3u8",
+      "viewers": 0,
+      "ip": "159.203.43.218",
+      "location": "canada east"
+    },
+    {
+      "id": "5",
+      "name": "west1",
+      "domain": "west1.scum.systems",
+      "cleanName": "San Francisco 1",
+      "url": "https://west1.scum.systems/hls/stream.m3u8",
+      "viewers": 0,
+      "ip": "104.236.128.235",
+      "location": "west"
+    },
+    {
+      "id": "6",
+      "name": "west2",
+      "domain": "west2.scum.systems",
+      "cleanName": "San Francisco 2",
+      "url": "https://west2.scum.systems/hls/stream.m3u8",
+      "viewers": 0,
+      "ip": "138.197.197.39",
+      "location": "west"
+    },
+    {
+      "id": "7",
+      "name": "euro1",
+      "domain": "euro1.scum.systems",
+      "cleanName": "Amsterdam 1",
+      "url": "https://euro1.scum.systems/hls/stream.m3u8",
+      "viewers": 0,
+      "ip": "198.211.120.127",
+      "location": "euro"
+    }
+  ]
+}

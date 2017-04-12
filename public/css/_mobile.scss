@@ -1,0 +1,20 @@
+@media (max-width: 768px) {
+  .nav__header {
+    margin-right: $gutter-size;
+  }
+
+  .stage {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .video {
+    margin-top: $gutter-size;
+  	width: 100%;
+  }
+  .chat-container {
+  	display: none;
+  }
+  .nav__link {
+  	display: none;
+  }
+}

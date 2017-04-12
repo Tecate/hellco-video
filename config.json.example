@@ -1,0 +1,9 @@
+{
+    "server": {
+        "numInitMessages": 20,
+        "maxFloodPenalty": 5,
+        "floodTime": 1000,
+        "floodBanTime": 30,
+        "rcon_password": "password_goes_here"
+    }
+}

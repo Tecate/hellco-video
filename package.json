@@ -1,0 +1,20 @@
+{
+  "name": "hellco-video",
+  "version": "0.0.0",
+  "description": "Video streaming with HLS and socket.io",
+  "main": "index.js",
+  "author": "Scum Systems",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "4.13.4",
+    "geoip-lite": "1.1.9",
+    "ipify": "^1.1.0",
+    "mysql": "2.13.0",
+    "socket.io": "~1.7.3",
+    "socket.io-redis": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
